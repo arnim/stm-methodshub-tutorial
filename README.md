@@ -81,3 +81,7 @@ MIT License. See `LICENSE`.
 ## Citation
 
 See `CITATION.cff`.
+
+## Acknowledgment
+
+Parts of this tutorial repository were prepared with assistance from the [pi coding agent](https://shittycodingagent.ai) using OpenAI GPT-5.4. Final review and responsibility remain with the author.
