@@ -18,6 +18,11 @@ It uses:
 - the **same pre-fitted STM model** (`UNgeneraldebate.stm.RData`)
 - the **same topic parametrization** (`K = 40`)
 
+The tutorial is based on the original UN General Debate Corpus release used in the source notebook. For readers looking for the dataset record today, the persistent Harvard Dataverse DOI is:
+- <https://doi.org/10.7910/DVN/0TJX8Y>
+
+This DOI refers to the same original dataset record first published in 2017, but it now resolves to newer updated versions of the corpus. So it is the same dataset lineage / persistent identifier, not necessarily the exact same file version originally used in the notebook.
+
 The only substantive code update is a small preprocessing change required for compatibility with current versions of `quanteda`.
 
 ## Repository structure
