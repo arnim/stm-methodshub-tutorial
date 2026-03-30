@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Structured Topic Modeling of UN General Debate Speeches in R"
+message: "If you use this tutorial, please cite it as follows."
+type: software
+authors:
+  - family-names: "Arnim"
+license: MIT
+abstract: "A Methods Hub-style Jupyter notebook tutorial showing how to analyze the UN General Debate Corpus with quanteda and stm in R using IRkernel."
+keywords:
+  - structured topic model
+  - stm
+  - topic modeling
+  - r
+  - quanteda
+  - social science
+version: 1.0.0
+date-released: 2026-03-30
