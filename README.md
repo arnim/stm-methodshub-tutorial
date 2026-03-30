@@ -1,6 +1,7 @@
 # Structured Topic Modeling of UN General Debate Speeches in R
 
 [![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnim/stm-methodshub-tutorial/main?labpath=stm_un_tutorial.ipynb)
+[![Jupyter4NFDI](https://nfdi-jupyter.de/images/jupyter4nfdi_badge.svg)](https://hub.nfdi-jupyter.de/v2/gh/arnim/stm-methodshub-tutorial/main?labpath=stm_un_tutorial.ipynb)
 
 This repository contains a Methods Hub-style Jupyter notebook tutorial for **Structured Topic Models (STM)** in **R** using **IRkernel**.
 
